@@ -20,7 +20,7 @@
 * https://drive.google.com/file/d/18HUJmBBTbOjfLJzLQzfACwDGkMbSOsng/view?usp=share_link
 * 這個是網路上找到4GB的模型
 * 或者可以在網上找其他模型來使用
-* 注意由於google colab 的資源提供量不多所以模型的大小只能4GB
+* 注意由於google colab 的資源提供量不多所以模型的大小只能使用4GB的,不然google colab 會出錯
 
 # 匯入模組
 * 請把模型上傳到google雲端,將模型放置到雲端的 NovelAI 目錄下，並改名為 animefull-final-pruned.ckpt

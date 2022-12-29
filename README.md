@@ -10,7 +10,7 @@
 # 準備資料
 * 準備一個可以打開google colab 的賬號
 * 請使用我提供的AI.ipynb來進行作業
-  * (請先全部啟動一次,生成必要文件,正常來講是會出錯是正常現象)
+  * (請先全部啟動一次,生成必要文件,正常來講是會出錯是正常現象,在準備好其他資料後在獨自一個一個執行)
 
 # 準備數據
 * https://drive.google.com/file/d/18HUJmBBTbOjfLJzLQzfACwDGkMbSOsng/view?usp=share_link

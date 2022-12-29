@@ -1,4 +1,4 @@
-#AI Painting (NovelAI) 
+# AI Painting (NovelAI) 
 
 
 
